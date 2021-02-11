@@ -5,15 +5,15 @@ body {
 
 #container {
     width: 80%;
-    height: 70px;
+    height: 100%;
     display: flex;
     flex-direction: row;
 margin-top: 20px;
 }
 
 .bar {
-    width: 20px;
-    height: 70px;
+    width: 2vw;
+    height: 17vw;
     background-color: darkblue;
     margin: 2px;
 }
